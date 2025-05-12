@@ -1,10 +1,15 @@
 class Solution {
     public int fib(int n) {
-        
-        if(n<=1) return n;
-        int i =fib(n-1);
-        int j=fib(n-2);
-        return i+j;
-        
+        int[] memo = new int[n + 1];
+        return helper(n, memo);
+    }
+
+    private int helper(int n, int[] memo) {
+        if (n <= 1) return n;
+
+        if (memo[n] != 0) return memo[n];
+        memo[n] = helper(n - 1, memo) + helper(n - 2, memo);
+
+        return memo[n];
     }
 }
