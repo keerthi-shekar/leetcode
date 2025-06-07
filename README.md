@@ -91,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/keerthi-shekar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keerthi-shekar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/keerthi-shekar/leetcode/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/keerthi-shekar/leetcode/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/keerthi-shekar/leetcode/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/keerthi-shekar/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
